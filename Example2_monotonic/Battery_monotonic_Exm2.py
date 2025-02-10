@@ -22,13 +22,6 @@
 #}
 
 #===================================================================================================================
-# The code is related to the following paper:
-# Implementation of Charge/Discharge Processes for Fracture Mechanism in Lithium-Ion Battery
-# submitted to Theoretical and Applied Fracture Mechanics
-
-# The authors are:
-# Nima Noii, Dejan Milijasevic, Amirreza Khodadadian and Nikolaos Bouklas
-
 # This script is related to 2D battery fracture
 
 # @copyright(2024) V1.1-NN
